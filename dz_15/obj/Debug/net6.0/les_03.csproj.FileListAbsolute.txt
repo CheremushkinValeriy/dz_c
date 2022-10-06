@@ -1,0 +1,15 @@
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\bin\Debug\net6.0\les_03.exe
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\bin\Debug\net6.0\les_03.deps.json
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\bin\Debug\net6.0\les_03.runtimeconfig.json
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\bin\Debug\net6.0\les_03.dll
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\bin\Debug\net6.0\les_03.pdb
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\obj\Debug\net6.0\les_03.csproj.AssemblyReference.cache
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\obj\Debug\net6.0\les_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\obj\Debug\net6.0\les_03.AssemblyInfoInputs.cache
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\obj\Debug\net6.0\les_03.AssemblyInfo.cs
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\obj\Debug\net6.0\les_03.csproj.CoreCompileInputs.cache
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\obj\Debug\net6.0\les_03.dll
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\obj\Debug\net6.0\refint\les_03.dll
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\obj\Debug\net6.0\les_03.pdb
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\obj\Debug\net6.0\les_03.genruntimeconfig.cache
+C:\Users\Валерий\Desktop\IT\ДЗ\C#\dz_01\dz_c\dz_15\obj\Debug\net6.0\ref\les_03.dll
