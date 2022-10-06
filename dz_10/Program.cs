@@ -11,17 +11,17 @@ while(true)
     int number = int.Parse(userInput);
 
     if (number >= 100 & number < 1000) 
-        {
-            Console.WriteLine($"Число = {number}");
-            int a1 = number / 10;
-            int a2 = a1 % 10;
-            Console.WriteLine($"Вротая цифра в числе {number} -> {a2}");
-            break;
-        }
+    {
+        Console.WriteLine($"Число = {number}");
+        int a1 = number / 10;
+        int a2 = a1 % 10;
+        Console.WriteLine($"Вротая цифра в числе {number} -> {a2}");
+        break;
+    }
     else
-        {
-            Console.Write("Введено не корректное число --> ");
-        }
+    {
+        Console.Write("Введено не корректное число --> ");
+    }
 }
 
     
