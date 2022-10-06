@@ -19,9 +19,9 @@ while(true)
             break;
         }
     else
-    {
-        Console.Write("Введено не корректное число --> ");
-    }
+        {
+            Console.Write("Введено не корректное число --> ");
+        }
 }
 
     
