@@ -4,12 +4,6 @@
 // 82 -> 10
 // 9012 -> 12
  
-using System;
- 
-class Program 
-{
-  static void Main (string[] args) 
-  {
 Console.Write("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 int result = Sum(number);
@@ -26,6 +20,4 @@ while(number > 10)
 }
 sum = sum + number;
 return sum;
-}
-  }
 }
