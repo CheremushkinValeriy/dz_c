@@ -53,13 +53,13 @@ void PrintArray(int[,] array)
  
 void Average(int[,] array)
 {
-    Console.WriteLine("Среднее арифметическое каждого столбца: ");
+    Console.Write("Среднее арифметическое каждого столбца: ");
     for(int j = 0; j < array.GetLength(1); j++)
     {
         double average = 0;
         for(int i = 0; i < array.GetLength(0); i++)
           average += array[i,j];
         double res = Math.Round((double)average / n, 1);
-        Console.WriteLine("-> " + res);
+        Console.Write(res + "; ");
     } 
 }
